@@ -9,10 +9,16 @@ body {
   box-shadow: 10px 10px 10px rgba(0,0,0,.5);
   background-color: #E1EDEB;
 }
+
+.container {
+  width: 70%;
+  margin:auto;
+}
+
 h1 {
   font-family: 'Gravitas One', 'Arial Black', serif;
   font-weight: normal;
-	color: red;
+	color: gray;
 	font-size: 3em;
   margin: 0;
 }

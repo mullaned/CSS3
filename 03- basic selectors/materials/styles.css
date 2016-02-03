@@ -1,0 +1,72 @@
+html {
+
+}
+body { 
+	width: 80%;
+  padding: 5%;
+  margin: 0 auto;
+  
+  background-color:#E6E5A0 ;
+  box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+  
+  
+ 
+}
+
+.container {
+  width: 90%;
+  margin:auto;
+  background-color: white;
+  box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+  padding-bottom: 40px;
+}
+
+
+.text {
+	color:#E6C42E;
+	margin: 10px;
+	margin-left: 25px;
+	text-align: left;
+	
+}
+
+
+.firstpara {
+	color: red;
+	line-height: 150%;
+	display: block;
+	margin: 10px;
+	margin-left: 25px;
+	text-align: left;
+	
+  	
+}
+
+.otherpara {
+	color: blue;
+	line-height: 150%;
+	margin: 10px;
+	margin-left: 25px;
+	text-align: left;
+	
+
+}
+
+.notebox {
+	background-color: #E6E5A0;
+	border: 2px dashed blue;
+	padding: 25px;
+	line-height: 150%;
+  	height: 60px;
+  	margin: 40px; 
+  	
+}
+
+.image {
+	
+	display: block;
+	width: 200%;
+  	margin:auto;
+  	text-align: left;
+	
+}
